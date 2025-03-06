@@ -1,10 +1,6 @@
 
 # Image Processing and Tagging Pipeline
 
-A system for automatic image analysis, description generation, and metadata tagging using LLM vision models.
-
-## Overview
-
 This project provides a complete pipeline for processing images, generating detailed descriptions, and tagging them with relevant metadata. The system uses Ollama's vision models for image analysis and text generation, then uploads processed images to Cloudinary with their associated metadata.
 
 ## Features
