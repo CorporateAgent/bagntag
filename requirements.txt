@@ -1,0 +1,8 @@
+ollama
+python-dotenv
+tabulate
+colorama
+requests
+fastapi
+uvicorn
+cloudinary

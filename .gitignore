@@ -1,0 +1,15 @@
+.venv
+/.venv
+__pycache__
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.env.local
+.env.development
+.env.development.local
+.env.test
+upload_embeddings.py
+
